@@ -1,7 +1,6 @@
 # Portofolio SysAdmin - My Tools & Resources
 
-Kumpulan tautan langsung ke tools dan proyek yang menunjukkan keahlian administrasi sistem.
-
+Kumpulan tautan langsung ke tools dan proyek
 ## Table of Contents
 
 - [Windows (Tools & Skrip)](#windows-tools--skrip)
