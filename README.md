@@ -14,7 +14,7 @@ Kumpulan tautan langsung ke tools dan proyek pengalaman administrasi sistem dan 
 <a id="windows-tools--skrip"></a>
 ## Windows (Tools & Skrip)
 
-Berbagai tools dan skrip yang digunakan untuk administrasi, perbaikan, dan manajemen sistem operasi Windows, khususnya yang berkaitan dengan keamanan dan pemulihan akses.
+Berbagai tools dan skrip yang digunakan untuk administrasi, perbaikan, dan manajemen sistem operasi Windows
 
 - **Windows Utility Kit (Password Resetter, BitLocker Unlocker)**
   Kumpulan tools untuk reset password lokal, pemulihan kunci BitLocker, dan utilitas darurat lainnya.
@@ -28,7 +28,7 @@ Berbagai tools dan skrip yang digunakan untuk administrasi, perbaikan, dan manaj
 <a id="monitoring-proyek--implementasi"></a>
 ## Monitoring (Proyek & Implementasi)
 
-Proyek-proyek yang menunjukkan kemampuan saya dalam setup dan konfigurasi sistem monitoring untuk memastikan ketersediaan layanan (Uptime) dan mengumpulkan metrik performa.
+Proyek-proyek saya dalam setup dan konfigurasi sistem monitoring untuk memastikan ketersediaan layanan dan mengumpulkan metrik performa.
 
 <a id="uptime-kuma-implementation-ansible"></a>
 ### Uptime Kuma Implementation (Ansible)
@@ -44,7 +44,7 @@ Implementasi otomatis Uptime Kuma menggunakan Ansible untuk memantau status laya
 <a id="jaringan-cisco-switch-command"></a>
 ## Jaringan (Cisco Switch Command) 🌐
 
-Kumpulan konfigurasi nyata (*production-ready*) untuk perangkat Cisco Switch, mencakup implementasi Layer 2 (VLAN, Trunking) dan Layer 3 (Inter-VLAN Routing) serta praktik keamanan dasar jaringan.
+Kumpulan konfigurasi untuk perangkat Cisco Switch, mencakup implementasi Layer 2 (VLAN, Trunking) dan Layer 3 (Inter-VLAN Routing) serta praktik keamanan dasar jaringan.
 
 - **Konfigurasi Core dan Access Switch**
   File konfigurasi (CLI) yang mendemonstrasikan implementasi jaringan hirarkis: konfigurasi Core Switch (Layer 3) dan Access Switch (Layer 2) dengan segregasi VLAN, *trunking*, dan fitur keamanan (`spanning-tree guard root`, SSH).
